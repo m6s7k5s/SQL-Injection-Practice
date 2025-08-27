@@ -1,6 +1,8 @@
-I am pleased to share that I have successfully completed a SQL Injection lab, further enhancing my skills in web security and penetration testing. This exercise has provided me with valuable hands-on experience in identifying and exploiting vulnerabilities, as well as a deeper understanding of secure coding practices. As a cybersecurity professional, I recognize the importance of staying current with emerging threats and vulnerabilities. SQL Injection remains a significant risk to web application security, and I am committed to ongoing learning and professional development in this field. 
-This experience has allowed me to refine my skills in: 
-    - Vulnerability identification and exploitation 
-    - Secure coding practices 
-    - Web application security testing 
-I welcome opportunities to collaborate and share knowledge with others in the cybersecurity community.
+Hello, I am a BCA student and Cybersecurity Enthusiast, passionate about securing digital systems and solving real-world challenges. Skilled in networking, ethical hacking, penetration testing, and web development, I continuously enhance my expertise through hands-on labs, certifications, and projects.
+
+My journey includes working with security tools (Wireshark, Nmap), programming in Python, C, JavaScript, SQL, and understanding both Windows & Linux environments. I aim to bridge my technical skills with strong problem-solving, critical thinking, and teamwork abilities to grow as a professional in the cybersecurity field.
+
+Currently, I am focusing on:
+    -Web Application & Network Security
+    -Secure Coding Practices
+    -Continuous learning in emerging cybersecurity domains
